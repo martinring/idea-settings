@@ -1,9 +1,17 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" assert-keyword="false" jdk-15="false" />
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -77,7 +85,7 @@
           <option name="TEST_OBJECT" value="CLASS" />
           <option name="VM_PARAMETERS" value="-ea" />
           <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
           <option name="OUTPUT_DIRECTORY" />
           <option name="ANNOTATION_TYPE" />
           <option name="ENV_VARIABLES" />
@@ -96,7 +104,29 @@
       <component name="SbtLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="$USER_HOME$/Projects/specific-sysml" value="1490703792840" />
+            <entry key="$USER_HOME$/.vscode/extensions/scala" value="1455662420000" />
+            <entry key="$USER_HOME$/Projects/13" value="1496921186000" />
+            <entry key="$USER_HOME$/Projects/a-team/example/chisel" value="1476093237000" />
+            <entry key="$USER_HOME$/Projects/chimpanc" value="2967682876000" />
+            <entry key="$USER_HOME$/Projects/cobra" value="1454778592000" />
+            <entry key="$USER_HOME$/Projects/egraph" value="1484178147000" />
+            <entry key="$USER_HOME$/Projects/nl-g/naive-gen" value="1447280806000" />
+            <entry key="$USER_HOME$/Projects/nlp" value="1443771343000" />
+            <entry key="$USER_HOME$/Projects/rp.ss17/Uebung/03" value="1494500033000" />
+            <entry key="$USER_HOME$/Projects/rp.ss17/Uebung/src/ueb04" value="1495568188000" />
+            <entry key="$USER_HOME$/Projects/rp.ss17/Uebung/src/ueb05-solution" value="1497559368000" />
+            <entry key="$USER_HOME$/Projects/rp.ss17/Vorlesung/src/07" value="1493809549000" />
+            <entry key="$USER_HOME$/Projects/rp.ss17/Vorlesung/src/09/scala" value="1495020882000" />
+            <entry key="$USER_HOME$/Projects/scala-commonmark" value="1475841794000" />
+            <entry key="$USER_HOME$/Projects/scala-intro" value="1454100146000" />
+            <entry key="$USER_HOME$/Projects/scala-json-rpc" value="2950543446000" />
+            <entry key="$USER_HOME$/Projects/secore" value="1484007273000" />
+            <entry key="$USER_HOME$/Projects/specific-sysml" value="1484609921000" />
+            <entry key="$USER_HOME$/Projects/sysml-gen" value="1447071839000" />
+            <entry key="$USER_HOME$/Projects/sysml-syntax" value="1476440894000" />
+            <entry key="$USER_HOME$/Projects/vscode-languageserver-scala" value="1476979849000" />
+            <entry key="$USER_HOME$/Projects/vscode-languageserver-scala-example/server" value="1477432351000" />
+            <entry key="$USER_HOME$/Projects/vscode-scala/server" value="1478636375000" />
           </map>
         </option>
         <option name="externalProjectsViewState">

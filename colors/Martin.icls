@@ -1,7 +1,9 @@
 <scheme name="Martin" version="142" parent_scheme="Default">
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="FONT_SCALE" value="1.5" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="GUTTER_BACKGROUND" value="ffffff" />

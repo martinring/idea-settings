@@ -1,9 +1,10 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_SCALE" value="1.5" />
-    <option name="FONT_SIZE" value="23" />
+    <option name="FONT_SCALE" value="1.0" />
+    <option name="FONT_SIZE" value="15" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="31" />
+    <option name="presentationMode" value="true" />
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
